@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://sharenow-y2ej.onrender.com';
 
 export const uploadFile = async (data) => {
     try {
